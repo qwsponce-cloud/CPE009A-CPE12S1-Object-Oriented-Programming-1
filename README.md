@@ -1,9 +1,10 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/0d4e17bf-da81-490f-96cd-c1d32b59e3f3" />
 # CPE009A-CPE12S1-Object-Oriented-Programming-1
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Will Stuart D. Ponce Jr. and I'm a Student from Technological Institute of the Philippines</p>
+
 
 ###
 
