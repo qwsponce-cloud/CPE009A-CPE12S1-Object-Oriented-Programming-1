@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5ba9c771-e6ff-4891-88b2-52a505a6e046" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/92af5238-bf7c-4e62-9880-e1e20a0f3460" />
 # CPE009A-CPE12S1-Object-Oriented-Programming-1
 
 <h1 align="left">Hey 👋 What's up?</h1>
