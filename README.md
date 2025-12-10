@@ -35,14 +35,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left"></h2>
 
 ###
@@ -57,5 +49,4 @@
 </div>
 
 ###
-
 ![2 -minions-clapping-and-super-excited-gif](https://github.com/user-attachments/assets/f4e9a803-bdde-49c9-8e4b-5a0dfa071cd9)
