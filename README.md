@@ -49,4 +49,8 @@
 </div>
 
 ###
+
+<img align="left" src="https://count.getloli.com/@:qwsponce-cloud?theme=ai-1&padding=9&offset=3&scale=1&align=top&pixelated=1&darkmode=1"  />
+
+###
 ![2 -minions-clapping-and-super-excited-gif](https://github.com/user-attachments/assets/f4e9a803-bdde-49c9-8e4b-5a0dfa071cd9)
