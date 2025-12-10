@@ -1,3 +1,61 @@
 # CPE009A-CPE12S1-Object-Oriented-Programming-1
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Will Stuart D. Ponce Jr. and I'm a Student from Technological Institute of the Philippines</p>
+
+###
+
+<h2 align="left">About me: I'm currently learning Python, and I want to enhance my capability in Python and C++.</h2>
+
+###
+
+<p align="left">📚 I'm currently learning Python<br>🎯 Goals: To Graduate<br>🎲 Fun fact: Nothing</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+</div>
+
+###
+
+<h5 align="left">Hello World!!</h5>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qwsponce-cloud/qwsponce-cloud/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=102&section=header&reversal=false&text=Python&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
 
 ![2 -minions-clapping-and-super-excited-gif](https://github.com/user-attachments/assets/f4e9a803-bdde-49c9-8e4b-5a0dfa071cd9)
